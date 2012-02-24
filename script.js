@@ -140,7 +140,7 @@
 $(function(){
     
 	var note = $('#note'),
-		ts = new Date('2012-02-25 13:00:00');
+		ts = new Date('February 25, 2012 13:00:00');
 		
 	$('#countdown').countdown({
 		timestamp	: ts,
